@@ -68,6 +68,7 @@ body {
 .droppable.dropped span {
 	font-size: 0.45rem;
 	margin-top: 0.5rem;
+	font-weight: 400;
 }
 
 .droppable.dropped i {
